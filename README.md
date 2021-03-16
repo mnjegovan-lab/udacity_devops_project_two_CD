@@ -83,6 +83,10 @@ https://mnjegovan-flaskpipelines.scm.azurewebsites.net/api/logs/docker
 View the log file in Azure App Service - Log Stream :
 ![azure_log_stream](./screenshot/azure_log_stream.jpg)
 
+
+Load Test with locust : 
+![locust](./screenshot/locust.jpg)
+
 ## Enhancements
 
 Introduce staging, creating multiple branches to be able to test and deploy code to stageing enviroment and only afterwards to production.
