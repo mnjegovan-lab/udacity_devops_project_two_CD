@@ -2,7 +2,7 @@
 
 ![Build Status](https://dev.azure.com/njegovan/Flask%20Pipelines/_apis/build/status/mnjegovan-lab.udacity_devops_azure_cd?branchName=master&stageName=Deploy%20Web%20App)
 
-[![Python application test with Github Actions](https://github.com/mnjegovan-lab/udacity_devops_project_two_CI/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/mnjegovan-lab/udacity_devops_project_two_CI/actions/workflows/pythonapp.yml)
+[![Python application test with Github Actions](https://github.com/mnjegovan-lab/udacity_devops_project_two_CD/actions/workflows/python-app.yml/badge.svg)](https://github.com/mnjegovan-lab/udacity_devops_project_two_CD/actions/workflows/python-app.yml)
 
 This is the second project of Udacity DevOps Engineer for Microsoft Azure Nanodegree Program.
 
